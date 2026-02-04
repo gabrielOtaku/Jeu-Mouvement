@@ -1,0 +1,12 @@
+C:\Users\Patrice\source\repos\BaseOpenTK\BaseOpenTK\bin\Debug\BaseOpenTK.exe.config
+C:\Users\Patrice\source\repos\BaseOpenTK\BaseOpenTK\bin\Debug\BaseOpenTK.exe
+C:\Users\Patrice\source\repos\BaseOpenTK\BaseOpenTK\bin\Debug\BaseOpenTK.pdb
+C:\Users\Patrice\source\repos\BaseOpenTK\BaseOpenTK\bin\Debug\OpenTK.dll
+C:\Users\Patrice\source\repos\BaseOpenTK\BaseOpenTK\bin\Debug\OpenTK.pdb
+C:\Users\Patrice\source\repos\BaseOpenTK\BaseOpenTK\bin\Debug\OpenTK.xml
+C:\Users\Patrice\source\repos\BaseOpenTK\BaseOpenTK\obj\Debug\BaseOpenTK.csproj.AssemblyReference.cache
+C:\Users\Patrice\source\repos\BaseOpenTK\BaseOpenTK\obj\Debug\BaseOpenTK.csproj.SuggestedBindingRedirects.cache
+C:\Users\Patrice\source\repos\BaseOpenTK\BaseOpenTK\obj\Debug\BaseOpenTK.csproj.CoreCompileInputs.cache
+C:\Users\Patrice\source\repos\BaseOpenTK\BaseOpenTK\obj\Debug\BaseOpenTK.csproj.CopyComplete
+C:\Users\Patrice\source\repos\BaseOpenTK\BaseOpenTK\obj\Debug\BaseOpenTK.exe
+C:\Users\Patrice\source\repos\BaseOpenTK\BaseOpenTK\obj\Debug\BaseOpenTK.pdb

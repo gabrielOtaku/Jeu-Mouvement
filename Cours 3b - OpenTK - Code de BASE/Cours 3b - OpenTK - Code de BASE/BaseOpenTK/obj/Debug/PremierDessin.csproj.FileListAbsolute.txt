@@ -1,0 +1,23 @@
+C:\Users\Patrice\source\repos\Cours 2c - BaseOpenTK\BaseOpenTK\bin\Debug\BaseOpenTK.exe.config
+C:\Users\Patrice\source\repos\Cours 2c - BaseOpenTK\BaseOpenTK\bin\Debug\BaseOpenTK.exe
+C:\Users\Patrice\source\repos\Cours 2c - BaseOpenTK\BaseOpenTK\bin\Debug\BaseOpenTK.pdb
+C:\Users\Patrice\source\repos\Cours 2c - BaseOpenTK\BaseOpenTK\bin\Debug\OpenTK.dll
+C:\Users\Patrice\source\repos\Cours 2c - BaseOpenTK\BaseOpenTK\bin\Debug\OpenTK.pdb
+C:\Users\Patrice\source\repos\Cours 2c - BaseOpenTK\BaseOpenTK\bin\Debug\OpenTK.xml
+C:\Users\Patrice\source\repos\Cours 2c - BaseOpenTK\BaseOpenTK\obj\Debug\PremierDessin.csproj.AssemblyReference.cache
+C:\Users\Patrice\source\repos\Cours 2c - BaseOpenTK\BaseOpenTK\obj\Debug\PremierDessin.csproj.SuggestedBindingRedirects.cache
+C:\Users\Patrice\source\repos\Cours 2c - BaseOpenTK\BaseOpenTK\obj\Debug\PremierDessin.csproj.CoreCompileInputs.cache
+C:\Users\Patrice\source\repos\Cours 2c - BaseOpenTK\BaseOpenTK\obj\Debug\PremierDessin.csproj.CopyComplete
+C:\Users\Patrice\source\repos\Cours 2c - BaseOpenTK\BaseOpenTK\obj\Debug\BaseOpenTK.exe
+C:\Users\Patrice\source\repos\Cours 2c - BaseOpenTK\BaseOpenTK\obj\Debug\BaseOpenTK.pdb
+D:\Temporaire\Solutions OpenTK\Cours 2c - PremierDessin\BaseOpenTK\bin\Debug\BaseOpenTK.exe.config
+D:\Temporaire\Solutions OpenTK\Cours 2c - PremierDessin\BaseOpenTK\bin\Debug\BaseOpenTK.exe
+D:\Temporaire\Solutions OpenTK\Cours 2c - PremierDessin\BaseOpenTK\bin\Debug\BaseOpenTK.pdb
+D:\Temporaire\Solutions OpenTK\Cours 2c - PremierDessin\BaseOpenTK\bin\Debug\OpenTK.dll
+D:\Temporaire\Solutions OpenTK\Cours 2c - PremierDessin\BaseOpenTK\bin\Debug\OpenTK.pdb
+D:\Temporaire\Solutions OpenTK\Cours 2c - PremierDessin\BaseOpenTK\bin\Debug\OpenTK.xml
+D:\Temporaire\Solutions OpenTK\Cours 2c - PremierDessin\BaseOpenTK\obj\Debug\PremierDessin.csproj.AssemblyReference.cache
+D:\Temporaire\Solutions OpenTK\Cours 2c - PremierDessin\BaseOpenTK\obj\Debug\PremierDessin.csproj.CoreCompileInputs.cache
+D:\Temporaire\Solutions OpenTK\Cours 2c - PremierDessin\BaseOpenTK\obj\Debug\PremierD.66606CDF.Up2Date
+D:\Temporaire\Solutions OpenTK\Cours 2c - PremierDessin\BaseOpenTK\obj\Debug\BaseOpenTK.exe
+D:\Temporaire\Solutions OpenTK\Cours 2c - PremierDessin\BaseOpenTK\obj\Debug\BaseOpenTK.pdb
