@@ -1,4 +1,5 @@
-﻿using OpenTK;
+﻿using System.Runtime.CompilerServices;
+using OpenTK;
 using OpenTK.Graphics.OpenGL;
 
 namespace BaseOpenTK
@@ -7,10 +8,17 @@ namespace BaseOpenTK
     {
         // ****************************************************************
         // Attributs
-        // Code à venir ...
+        float deplacementVertical;
+        float incrementVertical;
 
         // ****************************************************************
         // Constructeur et Initialisation
+        public Carre2D(float, float)
+        {
+            this.deplacementVertical = 0.0f;
+            this.incrementVertical = -1.5f;
+        }
+
         public Carre2D(Vector2 pointA, Vector2 pointB, Vector2 pointC, Vector2 pointD)
             : base("./images/CaisseBoisBMP.bmp", pointA, pointB, pointC, pointD)
         {
