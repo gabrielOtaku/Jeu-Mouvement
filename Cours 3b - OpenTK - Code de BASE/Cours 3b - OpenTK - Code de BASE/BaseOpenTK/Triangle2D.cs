@@ -1,42 +1,26 @@
-﻿using System;
-using OpenTK;
+﻿using OpenTK;
 using OpenTK.Graphics.OpenGL;
+using OpenTK.Input; // Nécessaire pour Key
 
 namespace BaseOpenTK
 {
     internal class Triangle2D : BasePourObjets
     {
-        // ****************************************************************
-        // Attributs
-        float theta;
+        float theta;             // Angle de rotation [cite: 128]
+        float incrementRotation; // Vitesse de rotation [cite: 255]
 
-        // ****************************************************************
-        // Constructeur et Initialisation
         public Triangle2D(Vector2 pointA, Vector2 pointB, Vector2 pointC)
-            : base("./images/DoritosBMP.bmp", pointA, pointB, pointC)
+            : base("./images/Doritos.bmp", pointA, pointB, pointC) // Assurez-vous d'avoir l'image ou changez le chemin
         {
-            pointA.X = -100.0f;
-            pointA.Y = 0.0f;
-
-            pointB.X = 0.0f;
-            pointB.Y = 0.0f;
-
-            pointC.X = -50.0f;
-            pointC.Y = 85.0f;
-
-            this.theta = 0.0f;
+            theta = 0.0f;
+            incrementRotation = 0.5f; // [cite: 255]
         }
 
-        // ****************************************************************
-        // Methodes Classe Parent
         override public void update()
         {
-            theta += 0.5f;
-            if (theta > 360.0f)
-            {
-                theta = 0.0f;
-
-            }
+            theta += incrementRotation;
+            if (theta >= 360.0f) theta = 0.0f;
+            else if (theta <= 0.0f) theta = 360.0f;
         }
 
         public void dessiner()
@@ -45,8 +29,18 @@ namespace BaseOpenTK
             GL.Translate(listePoints[0].X, 0.0f, 0.0f);
             GL.Rotate(theta, 0.0, 0.0, 1.0);
             GL.Translate(-listePoints[0].X, 0.0f, 0.0f);
+
             base.dessiner(PrimitiveType.Triangles);
             GL.PopMatrix();
+        }
+
+        public void inverserRotation(Key touche)
+        {
+            if ((touche == Key.Right && incrementRotation > 0)
+             || (touche == Key.Left && incrementRotation < 0))
+            {
+                incrementRotation *= -1.0f;
+            }
         }
     }
 }

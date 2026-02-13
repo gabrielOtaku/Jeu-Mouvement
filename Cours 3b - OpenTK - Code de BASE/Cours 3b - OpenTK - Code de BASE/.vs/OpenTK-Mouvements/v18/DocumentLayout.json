@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\theKi\\OneDrive\\Images\\Documents\\informatique\\Jeux video\\GIT\\Jeu-Mouvement\\Cours 3b - OpenTK - Code de BASE\\Cours 3b - OpenTK - Code de BASE\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{31A7193A-836E-4F1E-98DF-C2C9743EE860}|BaseOpenTK\\Jeu-Mouvements.csproj|c:\\users\\theki\\onedrive\\images\\documents\\informatique\\jeux video\\git\\jeu-mouvement\\cours 3b - opentk - code de base\\cours 3b - opentk - code de base\\baseopentk\\basepourobjets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31A7193A-836E-4F1E-98DF-C2C9743EE860}|BaseOpenTK\\Jeu-Mouvements.csproj|solutionrelative:baseopentk\\basepourobjets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A7193A-836E-4F1E-98DF-C2C9743EE860}|BaseOpenTK\\Jeu-Mouvements.csproj|c:\\users\\theki\\onedrive\\images\\documents\\informatique\\jeux video\\git\\jeu-mouvement\\cours 3b - opentk - code de base\\cours 3b - opentk - code de base\\baseopentk\\fichierwav.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31A7193A-836E-4F1E-98DF-C2C9743EE860}|BaseOpenTK\\Jeu-Mouvements.csproj|solutionrelative:baseopentk\\fichierwav.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{31A7193A-836E-4F1E-98DF-C2C9743EE860}|BaseOpenTK\\Jeu-Mouvements.csproj|c:\\users\\theki\\onedrive\\images\\documents\\informatique\\jeux video\\git\\jeu-mouvement\\cours 3b - opentk - code de base\\cours 3b - opentk - code de base\\baseopentk\\triangle2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{31A7193A-836E-4F1E-98DF-C2C9743EE860}|BaseOpenTK\\Jeu-Mouvements.csproj|solutionrelative:baseopentk\\triangle2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{31A7193A-836E-4F1E-98DF-C2C9743EE860}|BaseOpenTK\\PremierDessin.csproj|C:\\Users\\theKi\\OneDrive\\Images\\Documents\\informatique\\Jeux video\\GIT\\Jeu-Mouvement\\Cours 3b - OpenTK - Code de BASE\\Cours 3b - OpenTK - Code de BASE\\baseopentk\\triangle2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31A7193A-836E-4F1E-98DF-C2C9743EE860}|BaseOpenTK\\PremierDessin.csproj|solutionrelative:baseopentk\\triangle2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{31A7193A-836E-4F1E-98DF-C2C9743EE860}|BaseOpenTK\\Jeu-Mouvements.csproj|c:\\users\\theki\\onedrive\\images\\documents\\informatique\\jeux video\\git\\jeu-mouvement\\cours 3b - opentk - code de base\\cours 3b - opentk - code de base\\baseopentk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31A7193A-836E-4F1E-98DF-C2C9743EE860}|BaseOpenTK\\Jeu-Mouvements.csproj|solutionrelative:baseopentk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31A7193A-836E-4F1E-98DF-C2C9743EE860}|BaseOpenTK\\Jeu-Mouvements.csproj|c:\\users\\theki\\onedrive\\images\\documents\\informatique\\jeux video\\git\\jeu-mouvement\\cours 3b - opentk - code de base\\cours 3b - opentk - code de base\\baseopentk\\texte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31A7193A-836E-4F1E-98DF-C2C9743EE860}|BaseOpenTK\\Jeu-Mouvements.csproj|solutionrelative:baseopentk\\texte.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{31A7193A-836E-4F1E-98DF-C2C9743EE860}|BaseOpenTK\\Jeu-Mouvements.csproj|c:\\users\\theki\\onedrive\\images\\documents\\informatique\\jeux video\\git\\jeu-mouvement\\cours 3b - opentk - code de base\\cours 3b - opentk - code de base\\baseopentk\\gestionjeu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{31A7193A-836E-4F1E-98DF-C2C9743EE860}|BaseOpenTK\\Jeu-Mouvements.csproj|solutionrelative:baseopentk\\gestionjeu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{31A7193A-836E-4F1E-98DF-C2C9743EE860}|BaseOpenTK\\PremierDessin.csproj|C:\\Users\\theKi\\OneDrive\\Images\\Documents\\informatique\\Jeux video\\GIT\\Jeu-Mouvement\\Cours 3b - OpenTK - Code de BASE\\Cours 3b - OpenTK - Code de BASE\\baseopentk\\gestionjeu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31A7193A-836E-4F1E-98DF-C2C9743EE860}|BaseOpenTK\\PremierDessin.csproj|solutionrelative:baseopentk\\gestionjeu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31A7193A-836E-4F1E-98DF-C2C9743EE860}|BaseOpenTK\\Jeu-Mouvements.csproj|c:\\users\\theki\\onedrive\\images\\documents\\informatique\\jeux video\\git\\jeu-mouvement\\cours 3b - opentk - code de base\\cours 3b - opentk - code de base\\baseopentk\\carre2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31A7193A-836E-4F1E-98DF-C2C9743EE860}|BaseOpenTK\\Jeu-Mouvements.csproj|solutionrelative:baseopentk\\carre2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31A7193A-836E-4F1E-98DF-C2C9743EE860}|BaseOpenTK\\PremierDessin.csproj|C:\\Users\\theKi\\OneDrive\\Images\\Documents\\informatique\\Jeux video\\GIT\\Jeu-Mouvement\\Cours 3b - OpenTK - Code de BASE\\Cours 3b - OpenTK - Code de BASE\\baseopentk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31A7193A-836E-4F1E-98DF-C2C9743EE860}|BaseOpenTK\\PremierDessin.csproj|solutionrelative:baseopentk\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31A7193A-836E-4F1E-98DF-C2C9743EE860}|BaseOpenTK\\PremierDessin.csproj|C:\\Users\\theKi\\OneDrive\\Images\\Documents\\informatique\\Jeux video\\GIT\\Jeu-Mouvement\\Cours 3b - OpenTK - Code de BASE\\Cours 3b - OpenTK - Code de BASE\\baseopentk\\basepourobjets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31A7193A-836E-4F1E-98DF-C2C9743EE860}|BaseOpenTK\\PremierDessin.csproj|solutionrelative:baseopentk\\basepourobjets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{31A7193A-836E-4F1E-98DF-C2C9743EE860}|BaseOpenTK\\Jeu-Mouvements.csproj|c:\\users\\theki\\onedrive\\images\\documents\\informatique\\jeux video\\git\\jeu-mouvement\\cours 3b - opentk - code de base\\cours 3b - opentk - code de base\\baseopentk\\gestionaudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31A7193A-836E-4F1E-98DF-C2C9743EE860}|BaseOpenTK\\Jeu-Mouvements.csproj|solutionrelative:baseopentk\\gestionaudio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,86 +38,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Triangle2D.cs",
-              "DocumentMoniker": "C:\\Users\\theKi\\OneDrive\\Images\\Documents\\informatique\\Jeux video\\GIT\\Jeu-Mouvement\\Cours 3b - OpenTK - Code de BASE\\Cours 3b - OpenTK - Code de BASE\\BaseOpenTK\\Triangle2D.cs",
-              "RelativeDocumentMoniker": "BaseOpenTK\\Triangle2D.cs",
-              "ToolTip": "C:\\Users\\theKi\\OneDrive\\Images\\Documents\\informatique\\Jeux video\\GIT\\Jeu-Mouvement\\Cours 3b - OpenTK - Code de BASE\\Cours 3b - OpenTK - Code de BASE\\BaseOpenTK\\Triangle2D.cs",
-              "RelativeToolTip": "BaseOpenTK\\Triangle2D.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAAwDAAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-05T20:54:31.766Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "GestionJeu.cs",
               "DocumentMoniker": "C:\\Users\\theKi\\OneDrive\\Images\\Documents\\informatique\\Jeux video\\GIT\\Jeu-Mouvement\\Cours 3b - OpenTK - Code de BASE\\Cours 3b - OpenTK - Code de BASE\\BaseOpenTK\\GestionJeu.cs",
               "RelativeDocumentMoniker": "BaseOpenTK\\GestionJeu.cs",
               "ToolTip": "C:\\Users\\theKi\\OneDrive\\Images\\Documents\\informatique\\Jeux video\\GIT\\Jeu-Mouvement\\Cours 3b - OpenTK - Code de BASE\\Cours 3b - OpenTK - Code de BASE\\BaseOpenTK\\GestionJeu.cs",
               "RelativeToolTip": "BaseOpenTK\\GestionJeu.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAgwEIAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAADgAAAAAAAAAAAAgwEIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-05T20:46:22.819Z",
+              "WhenOpened": "2026-02-13T21:12:50.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FichierWAV.cs",
+              "DocumentMoniker": "C:\\Users\\theKi\\OneDrive\\Images\\Documents\\informatique\\Jeux video\\GIT\\Jeu-Mouvement\\Cours 3b - OpenTK - Code de BASE\\Cours 3b - OpenTK - Code de BASE\\BaseOpenTK\\FichierWAV.cs",
+              "RelativeDocumentMoniker": "BaseOpenTK\\FichierWAV.cs",
+              "ToolTip": "C:\\Users\\theKi\\OneDrive\\Images\\Documents\\informatique\\Jeux video\\GIT\\Jeu-Mouvement\\Cours 3b - OpenTK - Code de BASE\\Cours 3b - OpenTK - Code de BASE\\BaseOpenTK\\FichierWAV.cs",
+              "RelativeToolTip": "BaseOpenTK\\FichierWAV.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwIwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T21:01:00.22Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "BasePourObjets.cs",
-              "DocumentMoniker": "C:\\Users\\theKi\\OneDrive\\Images\\Documents\\informatique\\Jeux video\\GIT\\Jeu-Mouvement\\Cours 3b - OpenTK - Code de BASE\\Cours 3b - OpenTK - Code de BASE\\BaseOpenTK\\BasePourObjets.cs",
-              "RelativeDocumentMoniker": "BaseOpenTK\\BasePourObjets.cs",
-              "ToolTip": "C:\\Users\\theKi\\OneDrive\\Images\\Documents\\informatique\\Jeux video\\GIT\\Jeu-Mouvement\\Cours 3b - OpenTK - Code de BASE\\Cours 3b - OpenTK - Code de BASE\\BaseOpenTK\\BasePourObjets.cs",
-              "RelativeToolTip": "BaseOpenTK\\BasePourObjets.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAuAAAAAAAAAA==",
+              "Title": "GestionAudio.cs",
+              "DocumentMoniker": "C:\\Users\\theKi\\OneDrive\\Images\\Documents\\informatique\\Jeux video\\GIT\\Jeu-Mouvement\\Cours 3b - OpenTK - Code de BASE\\Cours 3b - OpenTK - Code de BASE\\BaseOpenTK\\GestionAudio.cs",
+              "RelativeDocumentMoniker": "BaseOpenTK\\GestionAudio.cs",
+              "ToolTip": "C:\\Users\\theKi\\OneDrive\\Images\\Documents\\informatique\\Jeux video\\GIT\\Jeu-Mouvement\\Cours 3b - OpenTK - Code de BASE\\Cours 3b - OpenTK - Code de BASE\\BaseOpenTK\\GestionAudio.cs",
+              "RelativeToolTip": "BaseOpenTK\\GestionAudio.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-04T15:46:13.644Z"
+              "WhenOpened": "2026-02-13T20:50:23.293Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Carre2D.cs",
-              "DocumentMoniker": "C:\\Users\\theKi\\OneDrive\\Images\\Documents\\informatique\\Jeux video\\GIT\\Jeu-Mouvement\\Cours 3b - OpenTK - Code de BASE\\Cours 3b - OpenTK - Code de BASE\\BaseOpenTK\\Carre2D.cs",
-              "RelativeDocumentMoniker": "BaseOpenTK\\Carre2D.cs",
-              "ToolTip": "C:\\Users\\theKi\\OneDrive\\Images\\Documents\\informatique\\Jeux video\\GIT\\Jeu-Mouvement\\Cours 3b - OpenTK - Code de BASE\\Cours 3b - OpenTK - Code de BASE\\BaseOpenTK\\Carre2D.cs",
-              "RelativeToolTip": "BaseOpenTK\\Carre2D.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAgwDIAAAAbAAAAAAAAAA==",
+              "Title": "Texte.cs",
+              "DocumentMoniker": "C:\\Users\\theKi\\OneDrive\\Images\\Documents\\informatique\\Jeux video\\GIT\\Jeu-Mouvement\\Cours 3b - OpenTK - Code de BASE\\Cours 3b - OpenTK - Code de BASE\\BaseOpenTK\\Texte.cs",
+              "RelativeDocumentMoniker": "BaseOpenTK\\Texte.cs",
+              "ToolTip": "C:\\Users\\theKi\\OneDrive\\Images\\Documents\\informatique\\Jeux video\\GIT\\Jeu-Mouvement\\Cours 3b - OpenTK - Code de BASE\\Cours 3b - OpenTK - Code de BASE\\BaseOpenTK\\Texte.cs",
+              "RelativeToolTip": "BaseOpenTK\\Texte.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-04T15:46:12.846Z",
+              "WhenOpened": "2026-02-13T20:51:13.379Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "GestionJeu.cs",
-              "DocumentMoniker": "C:\\Users\\theKi\\OneDrive\\Images\\Documents\\informatique\\Jeux video\\GIT\\Jeu-Mouvement\\Cours 3b - OpenTK - Code de BASE\\Cours 3b - OpenTK - Code de BASE\\BaseOpenTK\\GestionJeu.cs",
-              "RelativeDocumentMoniker": "BaseOpenTK\\GestionJeu.cs",
-              "ToolTip": "C:\\Users\\theKi\\OneDrive\\Images\\Documents\\informatique\\Jeux video\\GIT\\Jeu-Mouvement\\Cours 3b - OpenTK - Code de BASE\\Cours 3b - OpenTK - Code de BASE\\BaseOpenTK\\GestionJeu.cs",
-              "RelativeToolTip": "BaseOpenTK\\GestionJeu.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAgwEIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-04T15:46:11.824Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Triangle2D.cs",
-              "DocumentMoniker": "C:\\Users\\theKi\\OneDrive\\Images\\Documents\\informatique\\Jeux video\\GIT\\Jeu-Mouvement\\Cours 3b - OpenTK - Code de BASE\\Cours 3b - OpenTK - Code de BASE\\BaseOpenTK\\Triangle2D.cs",
-              "RelativeDocumentMoniker": "BaseOpenTK\\Triangle2D.cs",
-              "ToolTip": "C:\\Users\\theKi\\OneDrive\\Images\\Documents\\informatique\\Jeux video\\GIT\\Jeu-Mouvement\\Cours 3b - OpenTK - Code de BASE\\Cours 3b - OpenTK - Code de BASE\\BaseOpenTK\\Triangle2D.cs",
-              "RelativeToolTip": "BaseOpenTK\\Triangle2D.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-04T15:46:09.59Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\theKi\\OneDrive\\Images\\Documents\\informatique\\Jeux video\\GIT\\Jeu-Mouvement\\Cours 3b - OpenTK - Code de BASE\\Cours 3b - OpenTK - Code de BASE\\BaseOpenTK\\Program.cs",
               "RelativeDocumentMoniker": "BaseOpenTK\\Program.cs",
@@ -125,7 +102,34 @@
               "RelativeToolTip": "BaseOpenTK\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-04T15:46:05.751Z"
+              "WhenOpened": "2026-02-13T20:49:24.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BasePourObjets.cs",
+              "DocumentMoniker": "C:\\Users\\theKi\\OneDrive\\Images\\Documents\\informatique\\Jeux video\\GIT\\Jeu-Mouvement\\Cours 3b - OpenTK - Code de BASE\\Cours 3b - OpenTK - Code de BASE\\BaseOpenTK\\BasePourObjets.cs",
+              "RelativeDocumentMoniker": "BaseOpenTK\\BasePourObjets.cs",
+              "ToolTip": "C:\\Users\\theKi\\OneDrive\\Images\\Documents\\informatique\\Jeux video\\GIT\\Jeu-Mouvement\\Cours 3b - OpenTK - Code de BASE\\Cours 3b - OpenTK - Code de BASE\\BaseOpenTK\\BasePourObjets.cs",
+              "RelativeToolTip": "BaseOpenTK\\BasePourObjets.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAADwvzsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T20:49:13.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Triangle2D.cs",
+              "DocumentMoniker": "C:\\Users\\theKi\\OneDrive\\Images\\Documents\\informatique\\Jeux video\\GIT\\Jeu-Mouvement\\Cours 3b - OpenTK - Code de BASE\\Cours 3b - OpenTK - Code de BASE\\BaseOpenTK\\Triangle2D.cs",
+              "RelativeDocumentMoniker": "BaseOpenTK\\Triangle2D.cs",
+              "ToolTip": "C:\\Users\\theKi\\OneDrive\\Images\\Documents\\informatique\\Jeux video\\GIT\\Jeu-Mouvement\\Cours 3b - OpenTK - Code de BASE\\Cours 3b - OpenTK - Code de BASE\\BaseOpenTK\\Triangle2D.cs",
+              "RelativeToolTip": "BaseOpenTK\\Triangle2D.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T20:54:31.766Z",
+              "EditorCaption": ""
             }
           ]
         }

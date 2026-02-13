@@ -49,9 +49,12 @@
   <ItemGroup>
     <Compile Include="BasePourObjets.cs" />
     <Compile Include="Carre2D.cs" />
+    <Compile Include="FichierWAV.cs" />
+    <Compile Include="GestionAudio.cs" />
     <Compile Include="GestionJeu.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Texte.cs" />
     <Compile Include="Triangle2D.cs" />
   </ItemGroup>
   <ItemGroup>
