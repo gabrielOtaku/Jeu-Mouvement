@@ -1,4 +1,5 @@
-﻿using OpenTK;
+﻿using System;
+using OpenTK;
 using OpenTK.Graphics.OpenGL;
 
 namespace BaseOpenTK
@@ -7,7 +8,7 @@ namespace BaseOpenTK
     {
         // ****************************************************************
         // Attributs
-        // Code à venir ...
+        float theta;
 
         // ****************************************************************
         // Constructeur et Initialisation
@@ -22,17 +23,30 @@ namespace BaseOpenTK
 
             pointC.X = -50.0f;
             pointC.Y = 85.0f;
+
+            this.theta = 0.0f;
         }
 
         // ****************************************************************
         // Methodes Classe Parent
         override public void update()
         {
-            // Code à venir ...
+            theta += 0.5f;
+            if (theta > 360.0f)
+            {
+                theta = 0.0f;
+
+            }
         }
+
         public void dessiner()
         {
+            GL.PushMatrix();
+            GL.Translate(listePoints[0].X, 0.0f, 0.0f);
+            GL.Rotate(theta, 0.0, 0.0, 1.0);
+            GL.Translate(-listePoints[0].X, 0.0f, 0.0f);
             base.dessiner(PrimitiveType.Triangles);
+            GL.PopMatrix();
         }
     }
 }

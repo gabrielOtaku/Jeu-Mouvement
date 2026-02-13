@@ -64,7 +64,7 @@ namespace BaseOpenTK
         }
         private void update(object sender, FrameEventArgs arg)
         {
-
+            caisseDeBois.update();
         }
         private void rendu(object sender, FrameEventArgs arg)
         {
