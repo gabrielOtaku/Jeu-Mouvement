@@ -2,8 +2,9 @@
 using OpenTK.Graphics.OpenGL;
 using System.Drawing;
 using System.Drawing.Imaging;
-using System.IO; // Ajouté pour File.Exists
+using System.IO; 
 using System;
+using System.Reflection;
 
 namespace BaseOpenTK
 {
@@ -51,21 +52,43 @@ namespace BaseOpenTK
         }
 
         // ****************************************************************
-        // GestionTexture (CORRIGÉ)
+        private string ResolveTexturePath(string nomTexture)
+        {
+            if (string.IsNullOrWhiteSpace(nomTexture))
+                throw new ArgumentException(nameof(nomTexture));
+
+            // If absolute, check directly
+            if (Path.IsPathRooted(nomTexture) && File.Exists(nomTexture))
+                return nomTexture;
+
+            // Normalize and try relative to AppDomain base
+            string relative = nomTexture.TrimStart('.', '/', '\\');
+            string baseDir = AppDomain.CurrentDomain.BaseDirectory;
+            var candidates = new[]
+            {
+        Path.Combine(baseDir, relative),
+        Path.Combine(baseDir, "images", Path.GetFileName(nomTexture)),
+        Path.Combine(Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location) ?? baseDir, relative)
+            };
+
+            foreach (var p in candidates)
+                if (File.Exists(p))
+                    return p;
+
+            // If none found, throw with useful diagnostics
+            throw new FileNotFoundException("Texture not found. Tried: " + string.Join(", ", candidates));
+        }
+
         private void chargerTexture()
         {
-            // 1. Vérification de sécurité
-            if (!File.Exists(nomTexture))
-            {
-                throw new FileNotFoundException("Texture introuvable: " + nomTexture);
-            }
+            string textureFullPath = ResolveTexturePath(nomTexture);
 
             // 2. Génération de l'ID Texture
             textureID = GL.GenTexture();
             GL.BindTexture(TextureTarget.Texture2D, textureID);
 
             // 3. Chargement et Verrouillage (Tout se passe ici)
-            using (Bitmap bmpImage = new Bitmap(nomTexture))
+            using (Bitmap bmpImage = new Bitmap(textureFullPath))
             {
                 // On verrouille les bits en mémoire
                 Rectangle rectangle = new Rectangle(0, 0, bmpImage.Width, bmpImage.Height);
@@ -73,7 +96,7 @@ namespace BaseOpenTK
                 BitmapData bmpData = bmpImage.LockBits(
                     rectangle,
                     ImageLockMode.ReadOnly,
-                    System.Drawing.Imaging.PixelFormat.Format24bppRgb // On garde ton format 24 bits
+                    System.Drawing.Imaging.PixelFormat.Format24bppRgb 
                 );
 
                 // 4. Envoi à OpenGL (PENDANT que c'est verrouillé)
@@ -101,8 +124,6 @@ namespace BaseOpenTK
             GL.GenerateMipmap(GenerateMipmapTarget.Texture2D);
         }
 
-        // NOTE : La méthode chargerImage a été supprimée car elle est intégrée ci-dessus
-        // pour éviter l'erreur de pointeur invalide.
 
         private void setCoordonneesTextureTriangle()
         {
@@ -134,13 +155,11 @@ namespace BaseOpenTK
             GL.Enable(EnableCap.Texture2D);
             GL.BindTexture(TextureTarget.Texture2D, textureID);
 
-            // Important: remettre la couleur à Blanc sinon la texture sera teintée
             GL.Color3(Color.White);
 
             GL.Begin(typeDessin);
             for (int i = 0; i < listePoints.Length; i++)
             {
-                // Vérification de sécurité pour éviter le crash si les tableaux ont des tailles différentes
                 if (i < coordonneesTextures.Length)
                     GL.TexCoord2(coordonneesTextures[i]);
 

@@ -1,19 +1,21 @@
 ﻿using OpenTK;
 using OpenTK.Graphics.OpenGL;
-using OpenTK.Input; // Nécessaire pour Key
+using OpenTK.Input;
+using System.Drawing;
+using System.Drawing.Imaging;
 
 namespace BaseOpenTK
 {
     internal class Triangle2D : BasePourObjets
     {
-        float theta;             // Angle de rotation [cite: 128]
-        float incrementRotation; // Vitesse de rotation [cite: 255]
+        float theta;             // Angle de rotation 
+        float incrementRotation; // Vitesse de rotation 
 
         public Triangle2D(Vector2 pointA, Vector2 pointB, Vector2 pointC)
-            : base("./images/Doritos.bmp", pointA, pointB, pointC) // Assurez-vous d'avoir l'image ou changez le chemin
+            : base("./images/DoritosBMP.bmp", pointA, pointB, pointC) // Assurez-vous d'avoir l'image ou changez le chemin
         {
             theta = 0.0f;
-            incrementRotation = 0.5f; // [cite: 255]
+            incrementRotation = 0.5f; 
         }
 
         override public void update()

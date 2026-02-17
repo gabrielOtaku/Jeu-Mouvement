@@ -52,6 +52,7 @@
     <Compile Include="FichierWAV.cs" />
     <Compile Include="GestionAudio.cs" />
     <Compile Include="GestionJeu.cs" />
+    <Compile Include="obj\Release\.NETFramework,Version=v4.8.AssemblyAttributes.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Texte.cs" />
@@ -59,8 +60,24 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="obj\Release\Jeu-Mouvements.csproj.AssemblyReference.cache" />
+    <None Include="obj\Release\PremierDessin.csproj.AssemblyReference.cache" />
     <None Include="OpenTK.dll.config" />
     <None Include="packages.config" />
+    <None Include="PremierDessin.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\Debug\OpenTK.dll" />
+    <Content Include="images\*.bmp">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="audio\*.wav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bin\Release\" />
+    <Folder Include="obj\Debug\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

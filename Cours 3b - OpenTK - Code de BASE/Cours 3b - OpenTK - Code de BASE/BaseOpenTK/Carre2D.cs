@@ -1,4 +1,6 @@
 ﻿using OpenTK;
+using System.Drawing;
+using System.Drawing.Imaging;
 using OpenTK.Graphics.OpenGL;
 
 namespace BaseOpenTK

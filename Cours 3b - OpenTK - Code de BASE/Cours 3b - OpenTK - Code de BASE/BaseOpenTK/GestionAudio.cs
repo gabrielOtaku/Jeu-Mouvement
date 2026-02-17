@@ -6,19 +6,19 @@ namespace BaseOpenTK
 {
     class GestionAudio
     {
+        private const string myAudio = "./audio/DarkAtmosphere.wav";
         AudioContext audioContex;
         int bufferMusique;
         int sourceMusique;
         FichierWAV fichierMusiquePrincipale;
-        float volumeMusique; // [cite: 713]
+        float volumeMusique; 
 
         public GestionAudio()
         {
             audioContex = new AudioContext();
-            // Assurez-vous que le fichier existe dans le dossier bin/Debug/audio/
-            fichierMusiquePrincipale = new FichierWAV("./audio/DarkAtmosphere.wav");
-            volumeMusique = 1.0f; // [cite: 715]
-            AL.Listener(ALListenerf.Gain, volumeMusique); // [cite: 717]
+            fichierMusiquePrincipale = new FichierWAV(myAudio);
+            volumeMusique = 1.0f; 
+            AL.Listener(ALListenerf.Gain, volumeMusique); 
             init();
         }
 
@@ -33,7 +33,7 @@ namespace BaseOpenTK
                 fichierMusiquePrincipale.getFrequence());
 
             AL.Source(sourceMusique, ALSourcei.Buffer, bufferMusique);
-            AL.Source(sourceMusique, ALSourceb.Looping, true); // Musique en boucle [cite: 505]
+            AL.Source(sourceMusique, ALSourceb.Looping, true); // Musique en boucle 
         }
 
         public void demarrerMusiqueDeFond()

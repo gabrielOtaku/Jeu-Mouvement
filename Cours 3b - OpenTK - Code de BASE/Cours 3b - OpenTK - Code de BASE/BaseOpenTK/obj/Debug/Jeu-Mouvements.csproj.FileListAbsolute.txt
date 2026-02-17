@@ -12,11 +12,11 @@ C:\Users\theKi\OneDrive\Images\Documents\informatique\Jeux video\GIT\Cours 3b - 
 C:\Users\theKi\OneDrive\Images\Documents\informatique\Jeux video\GIT\Jeu-Mouvement\Cours 3b - OpenTK - Code de BASE\Cours 3b - OpenTK - Code de BASE\BaseOpenTK\bin\Debug\BaseOpenTK.exe.config
 C:\Users\theKi\OneDrive\Images\Documents\informatique\Jeux video\GIT\Jeu-Mouvement\Cours 3b - OpenTK - Code de BASE\Cours 3b - OpenTK - Code de BASE\BaseOpenTK\bin\Debug\BaseOpenTK.exe
 C:\Users\theKi\OneDrive\Images\Documents\informatique\Jeux video\GIT\Jeu-Mouvement\Cours 3b - OpenTK - Code de BASE\Cours 3b - OpenTK - Code de BASE\BaseOpenTK\bin\Debug\BaseOpenTK.pdb
-C:\Users\theKi\OneDrive\Images\Documents\informatique\Jeux video\GIT\Jeu-Mouvement\Cours 3b - OpenTK - Code de BASE\Cours 3b - OpenTK - Code de BASE\BaseOpenTK\bin\Debug\OpenTK.dll
-C:\Users\theKi\OneDrive\Images\Documents\informatique\Jeux video\GIT\Jeu-Mouvement\Cours 3b - OpenTK - Code de BASE\Cours 3b - OpenTK - Code de BASE\BaseOpenTK\bin\Debug\OpenTK.pdb
-C:\Users\theKi\OneDrive\Images\Documents\informatique\Jeux video\GIT\Jeu-Mouvement\Cours 3b - OpenTK - Code de BASE\Cours 3b - OpenTK - Code de BASE\BaseOpenTK\bin\Debug\OpenTK.xml
 C:\Users\theKi\OneDrive\Images\Documents\informatique\Jeux video\GIT\Jeu-Mouvement\Cours 3b - OpenTK - Code de BASE\Cours 3b - OpenTK - Code de BASE\BaseOpenTK\obj\Debug\Jeu-Mouvements.csproj.AssemblyReference.cache
 C:\Users\theKi\OneDrive\Images\Documents\informatique\Jeux video\GIT\Jeu-Mouvement\Cours 3b - OpenTK - Code de BASE\Cours 3b - OpenTK - Code de BASE\BaseOpenTK\obj\Debug\Jeu-Mouvements.csproj.CoreCompileInputs.cache
 C:\Users\theKi\OneDrive\Images\Documents\informatique\Jeux video\GIT\Jeu-Mouvement\Cours 3b - OpenTK - Code de BASE\Cours 3b - OpenTK - Code de BASE\BaseOpenTK\obj\Debug\Jeu-Mouv.2CA55185.Up2Date
 C:\Users\theKi\OneDrive\Images\Documents\informatique\Jeux video\GIT\Jeu-Mouvement\Cours 3b - OpenTK - Code de BASE\Cours 3b - OpenTK - Code de BASE\BaseOpenTK\obj\Debug\BaseOpenTK.exe
 C:\Users\theKi\OneDrive\Images\Documents\informatique\Jeux video\GIT\Jeu-Mouvement\Cours 3b - OpenTK - Code de BASE\Cours 3b - OpenTK - Code de BASE\BaseOpenTK\obj\Debug\BaseOpenTK.pdb
+C:\Users\theKi\OneDrive\Images\Documents\informatique\Jeux video\GIT\Jeu-Mouvement\Cours 3b - OpenTK - Code de BASE\Cours 3b - OpenTK - Code de BASE\BaseOpenTK\bin\Debug\images\CaisseBoisBMP.bmp
+C:\Users\theKi\OneDrive\Images\Documents\informatique\Jeux video\GIT\Jeu-Mouvement\Cours 3b - OpenTK - Code de BASE\Cours 3b - OpenTK - Code de BASE\BaseOpenTK\bin\Debug\images\DoritosBMP.bmp
+C:\Users\theKi\OneDrive\Images\Documents\informatique\Jeux video\GIT\Jeu-Mouvement\Cours 3b - OpenTK - Code de BASE\Cours 3b - OpenTK - Code de BASE\BaseOpenTK\bin\Debug\audio\DarkAtmosphere.wav
